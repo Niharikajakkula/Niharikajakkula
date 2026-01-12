@@ -1,4 +1,9 @@
-## Hi there 👋
+## Bitcoin Open Source Journey
+
+- Completed **Saving Satoshi** (Bitcoin fundamentals, transactions, multisig, scripts)
+- Preparing for **₿OSS Challenge 2026**
+- Exploring Bitcoin Core and open-source contribution workflow
+
 
 <!--
 **Niharikajakkula/Niharikajakkula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
