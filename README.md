@@ -4,6 +4,13 @@
 - Preparing for **₿OSS Challenge 2026**
 - Exploring Bitcoin Core and open-source contribution workflow
 
+## Software Development Profile
+- Full-Stack Software Developer with experience in **React (TypeScript), Node.js, Express, Django, and Supabase**
+- Strong focus on **scalable system design, secure authentication (JWT), and RESTful API development**
+- Experienced in building **modern, responsive user interfaces** and production-grade dashboards
+- Committed to **clean code practices, documentation, testing, and collaborative open-source development**
+
+
 
 <!--
 **Niharikajakkula/Niharikajakkula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
