@@ -5,7 +5,7 @@
 - Exploring Bitcoin Core and open-source contribution workflow
 
 ## Software Development Profile
-- Full-Stack Software Developer with experience in **React (TypeScript), Node.js, Express, Django, and Supabase**
+- Full-Stack Software Developer with experience in **React (TypeScript,JavaScript), Node.js, Express, Django, and MongoDB**
 - Strong focus on **scalable system design, secure authentication (JWT), and RESTful API development**
 - Experienced in building **modern, responsive user interfaces** and production-grade dashboards
 - Committed to **clean code practices, documentation, testing, and collaborative open-source development**
