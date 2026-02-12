@@ -1,9 +1,3 @@
-## Bitcoin Open Source Journey
-
-- Completed **Saving Satoshi** (Bitcoin fundamentals, transactions, multisig, scripts)
-- Preparing for **₿OSS Challenge 2026**
-- Exploring Bitcoin Core and open-source contribution workflow
-
 # 💫 About Me:
 Full-Stack Software Developer with experience in React (TypeScript, JavaScript), Node.js, Express, Django, and MongoDB<br>Strong focus on scalable system design, secure authentication (JWT), and RESTful API development<br>Experienced in building modern, responsive user interfaces and production-grade dashboards<br>Committed to clean code practices, documentation, testing, and collaborative open-source development
 
@@ -21,11 +15,20 @@ Full-Stack Software Developer with experience in React (TypeScript, JavaScript),
 ---
 [![](https://visitcount.itsvg.in/api?id=Niharikajakkula&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+## Bitcoin Open Source Journey
+
+- Completed **Saving Satoshi** (Bitcoin fundamentals, transactions, multisig, scripts)
+- Preparing for **₿OSS Challenge 2026**
+- Exploring Bitcoin Core and open-source contribution workflow
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Niharikajakkula/Niharikajakkula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
